@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.8.19.17:8080/view/APD/job/APD-iPhone-trunk/lastSuccessfulBuild/artifact/output/APD-v3.0.01-b267-r413-Release-Debug-Dev-Log.ipa</string>
+					<string>http://192.8.208.238:8081/apd/APD.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
