@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.8.208.238:8081/apd/APD.ipa</string>
+					<string>http://192.8.208.238:8081/apd/apd.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>APD.ipa</string>
+				<string>apd.ipa</string>
 			</dict>
 		</dict>
 	</array>
